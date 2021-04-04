@@ -1,0 +1,23 @@
+{
+    "Monster": {
+        "checkpoints": [
+            {
+                "steps": 256000,
+                "file_path": "results\\Monster001\\Monster\\Monster-256000.onnx",
+                "reward": 1030.1,
+                "creation_time": 1616588070.2954369
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 256000,
+            "file_path": "results\\Monster001\\Monster.onnx",
+            "reward": 1030.1,
+            "creation_time": 1616588070.2954369
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.25.0",
+        "torch_version": "1.8.0+cpu"
+    }
+}

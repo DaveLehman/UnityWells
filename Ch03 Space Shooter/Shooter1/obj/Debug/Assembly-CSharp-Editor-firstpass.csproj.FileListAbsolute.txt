@@ -1,0 +1,2 @@
+F:\terable2\Programming\WellsUnity2020\Ch03 Space Shooter\Shooter1\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+F:\terable2\Programming\WellsUnity2020\Ch03 Space Shooter\Shooter1\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
